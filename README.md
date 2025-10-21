@@ -1,9 +1,9 @@
-# Frontend Wizards Profile Card
+# Profile Card - Oluchukwu
 A responsive, accessible profile card component built with semantic HTML, modern CSS, and vanilla JavaScript as part of the HNG13 Frontend Wizards Stage 0 task.
 
 ## Live Demo
 
-[View Live Project](https://your-deployment-link.netlify.app) 
+[View Live Project](https://oluchi95.github.io/Frontend-Wizards-Profile-Card/) 
 
 ## Project Overview
 
